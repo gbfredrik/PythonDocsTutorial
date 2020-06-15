@@ -1,1 +1,1 @@
-run = "python HiG_Python_introduction/loopar.py"
+run = "python3 HiG_Python_introduction/test.py"
