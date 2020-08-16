@@ -1,1 +1,1 @@
-run = "python3 HiG_Python_introduction/projekt.py"
+run = "python3 HiG_Python_introduction/variabler_datatyper.py"
